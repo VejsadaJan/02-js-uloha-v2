@@ -1,23 +1,4 @@
 
-
-
-// Vytvoril som si pole objektov v JS
-/* let arrayOfObject = [
-    {
-        title: "Playdate SDK",
-        content: "Our full development environment, available for Mac, PC, and Linux. Includes Lua and C APIs, as well as a Simulator for local development, with profiling and more. "
-    },
-    {
-        title: "Inside Playdate",
-        content: "Reference documentation for programming Playdate games. Covers both Lua and C programming. "
-    },
-    {
-        title: "Caps",
-        content: "Bitmap font editor for Playdate fonts—draw your own characters, import desktop fonts, kern and preview them."
-    }
-] */
-
-
 // Funkcia na vytvorenie novej karty
 function createNewCard(title, content){
     let newCard = document.createElement('li');
