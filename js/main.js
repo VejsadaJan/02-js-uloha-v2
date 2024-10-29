@@ -1,5 +1,5 @@
 
-debugger;
+
 
 // Vytvoril som si pole objektov v JS
 /* let arrayOfObject = [
